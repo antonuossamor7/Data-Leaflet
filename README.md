@@ -1,6 +1,6 @@
 # Data-Leaflet
 https://antonuossamor7.github.io/Data-Leaflet/
-# Leaflet Homework - Visualizing Data with Leaflet
+# Leaflet  - Visualizing Data with Leaflet
 
 ## Background
 
